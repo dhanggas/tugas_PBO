@@ -1,12 +1,11 @@
-# Zalfa Miracle Skin Care Bandung
+# Zalfa
 
-![Zalfa miracle skin cara bandung](/imgs/sipmi.png)
+
 
 ## Hal yang harus dilakukan
 
 * Install Java Runtime Environment
 * Install Database [MySQL](http://dev.mysql.com/downloads/installer/) atau [MariaDB](https://mariadb.org/download/)
-* [Download jar ```sipmi-zalfa-miracle-skin-care-x.x.jar```](https://github.com/dimMaryanto/sipmi-zalfa-miracle-skin-care/releases)
 * Membuat launcher
 * Jalankan aplikasi
 
@@ -145,7 +144,6 @@ MariaDB [sipmi]> show tables;
 
 ## Download jar archive
 
-* Download [aplikasi zalfa-miracle-skin-care-x.x.jar](https://github.com/dimMaryanto/sipmi-zalfa-miracle-skin-care/releases)
 * Untuk menjalankan sebenarnya ada banyak cara yaitu menggunakan terminal atau command prompt dan menggunakan cara biasa yaitu double klik (klik 2x)
 
 ### Menggunakan terminal atau command promnt
@@ -153,9 +151,9 @@ MariaDB [sipmi]> show tables;
 * peraintah dasar
 
 ```bash
-java -jar sipmi-zalfa-miracle-skin-care-x.x.jar
+java -jar sipmi-zalfa.jar
 ```
 
 ### Menggunakan double click (klik 2x)
 
-* Klik kanan ```sipmi-zalfa-miracle-skin-care-x.x.jar``` -> Open with -> Java (TM) Platform SE Binary
+* Klik kanan ```sipmi-zalfa.jar``` -> Open with -> Java (TM) Platform SE Binary
